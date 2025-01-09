@@ -1,0 +1,8 @@
+*.py[cod]
+*.so
+__pycache__
+pip-log.txt
+venv
+app.db
+.coverage
+migrations
